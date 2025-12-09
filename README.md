@@ -14,3 +14,14 @@ To quantify the effect of diverse prompts, we compare the results with a **basel
 4. Compare diversity scores with the baseline model using fixed prompts.
 # Repository Structure   
 
+## Model and Classifier Links
+
+- **Stable Diffusion (SD) Model:**  
+  [Download here](https://drive.google.com/file/d/13Nmgr0GwnbOoD9STRlKsPAEcbURTYaP8/view?usp=sharing)
+
+- **CelebA-HQ Classifier:**  
+  [Download here](https://drive.google.com/file/d/1vJryoK4GcStp39O5yK9Z3BmEWnHkKIrL/view?usp=sharing)
+
+- **CIFAR-10 Classifier:**  
+  [Download here](https://drive.google.com/file/d/1wiO8UdJgChipVU0QI6f77ycM22twHf0G/view?usp=sharing)
+
