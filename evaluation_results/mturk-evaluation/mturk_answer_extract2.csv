@@ -1,0 +1,8 @@
+image_url,Worker_1_true_options,Worker_2_true_options
+https://sdllm-celebahq-bucket1.s3.eu-central-1.amazonaws.com/129_celebahq_icst_low_iteration1_X15_Y0.png,"Bangs, Eyeglasses, Smiling",Eyeglasses
+https://sdllm-celebahq-bucket1.s3.eu-central-1.amazonaws.com/132_celebahq_icst_high_iteration126_X15_Y0.png,"Bangs, Eyeglasses, Smiling","Eyeglasses, Smiling"
+https://sdllm-celebahq-bucket1.s3.eu-central-1.amazonaws.com/136_celebahq_icst_high_iteration7_X15_Y0.png,Eyeglasses,Eyeglasses
+https://sdllm-celebahq-bucket1.s3.eu-central-1.amazonaws.com/212_celebahq_icst_high_iteration19_X31_Y0.png,Smiling,Smiling
+https://sdllm-celebahq-bucket1.s3.eu-central-1.amazonaws.com/38_celebahq_high_iteration60_X15_Y0.png,Eyeglasses,Eyeglasses
+https://sdllm-celebahq-bucket1.s3.eu-central-1.amazonaws.com/4_celebahq_low_iteration1_X5_Y0.png,"Bangs, Smiling",Smiling
+https://sdllm-celebahq-bucket1.s3.eu-central-1.amazonaws.com/vr_0_e281_pNone.png,"Cat, Not a human face","Cat, Not a human face"
