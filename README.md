@@ -38,8 +38,21 @@ This comparison helps determine whether introducing diverse prompts leads to gre
 - **ImageNet**
 - **CelebA-HQ**
 
-# Repository Structure   
+## Repository Structure  
 
+```text
+genai_tigs_diversity/
+│
+├── diversity/                  # Scripts for computing image diversity using CLIP-32 and ResNet-50.
+│
+├── evaluation_results/         # Human evaluation results and mutation extent ranges for each model.
+│
+├── experiments/                # Dataset-specific experiments for CelebA-HQ, CIFAR-10, and ImageNet.
+│
+├── CelebAHQ-attribute-label.txt # CelebA-HQ facial attribute labels.
+│
+└── README.md                   # Project documentation.
+```
 ## Model and Classifier Links
 
 - **Stable Diffusion (SD) Model:**  
