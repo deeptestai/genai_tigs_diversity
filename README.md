@@ -64,6 +64,6 @@ genai_tigs_diversity/
 - **CIFAR-10 Classifier:**  
   [Download here](https://drive.google.com/file/d/1wiO8UdJgChipVU0QI6f77ycM22twHf0G/view?usp=sharing)
 
-# REFERENCE
+## Reference
 
 
