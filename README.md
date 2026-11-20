@@ -1,7 +1,5 @@
 # Diversity Evaluation of Stable Diffusion Models
 
-# Diversity Evaluation of Stable Diffusion Models
-
 ## Overview
 
 This project investigates the diversity behavior of Stable Diffusion (SD) models under different prompt-construction strategies, focusing on the influence of prompt diversity on generated image outputs.
