@@ -8,7 +8,7 @@ We conduct experiments on three widely used datasets: **CIFAR-10**, **ImageNet**
 
 ## Objective
 
-To investigate the effectiveness of LLM-driven Diverse Prompt Test Input Generation (DP-TIG) in improving the diversity of Stable Diffusion-generated test inputs compared with Fixed Prompt Test Input Generation (FP-TIG), across CIFAR-10, ImageNet, and CelebA-HQ, using automated diversity metrics and human evaluation.
+To investigate the effectiveness of  Diverse Prompt Test Input Generation (DP-TIG) in improving the diversity of Stable Diffusion-generated test inputs compared with Fixed Prompt Test Input Generation (FP-TIG), across CIFAR-10, ImageNet, and CelebA-HQ, using automated diversity metrics and human evaluation.
 
 ## Comparison with Baseline
 
